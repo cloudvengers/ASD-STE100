@@ -1,5 +1,5 @@
 ---
-name: ASD-STE100
+name: asd-ste100
 description: 글과 답변의 작성 및 수정, 사용자 원문 편집 등 모든 문장 작성과 수정에 적용합니다.
 ---
 
