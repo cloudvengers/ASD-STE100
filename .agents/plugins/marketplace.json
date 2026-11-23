@@ -1,0 +1,17 @@
+{
+  "name": "asd-ste100-marketplace",
+  "plugins": [
+    {
+      "name": "asd-ste100",
+      "source": {
+        "source": "local",
+        "path": "./plugins/asd-ste100"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
